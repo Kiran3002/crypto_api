@@ -35,7 +35,7 @@ export default function Component() {
       </CardHeader>
       <CardContent className="p-0">
         <div className="relative w-full max-w-lg mx-auto grid gap-1.5">
-          <SearchIcon className="absolute inset-y-0 left-0 z-10 w-4 h-4 my-2 ml-2 text-gray-400 top-1/2 dark:text-gray-500" />
+          <SearchIcon className="absolute inset-y-0 left-0 z-10 w-4 h-4 my-2 ml-2 text-gray-400 top-2/7 dark:text-gray-500" />
           <Input
             className="pl-8 w-full rounded-lg"
             placeholder="Search"
