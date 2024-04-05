@@ -30,8 +30,8 @@ export default function Component() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Companies</CardTitle>
-        <CardDescription>Sample of companies</CardDescription>
+        <CardTitle>Crypto Coins</CardTitle>
+        <CardDescription>Change In last 24 Hours</CardDescription>
       </CardHeader>
       <CardContent className="p-0">
         <div className="relative w-full max-w-lg mx-auto grid gap-1.5">
